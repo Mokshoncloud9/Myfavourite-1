@@ -1,0 +1,24 @@
+img{
+  width:250px;  
+    border-radius:70%;
+}
+
+
+
+#main{
+color:darkblue;
+    font-size:40px;
+}
+
+
+body{
+    background: linear-gradient(aqua 0%, red 100%);
+    text-align:center
+}
+
+
+
+#bio{
+    font-size:30px;    
+}
+
